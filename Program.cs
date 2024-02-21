@@ -1,4 +1,5 @@
-﻿using System;
+﻿using csharpBeginner.Examples;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,12 @@ namespace csharpBeginner
     {
         static void Main(string[] args)
         {
+            var generateRandomPassword = new GenerateRandomPassword();
 
+            generateRandomPassword.StartProgram();
+
+
+            Console.ReadLine();
 
         }
     }

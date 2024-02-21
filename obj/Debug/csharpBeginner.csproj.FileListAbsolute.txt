@@ -1,0 +1,8 @@
+D:\Jobs\ALLWork\csharpBeginner\bin\Debug\csharpBeginner.exe.config
+D:\Jobs\ALLWork\csharpBeginner\bin\Debug\csharpBeginner.exe
+D:\Jobs\ALLWork\csharpBeginner\bin\Debug\csharpBeginner.pdb
+D:\Jobs\ALLWork\csharpBeginner\obj\Debug\csharpBeginner.csproj.AssemblyReference.cache
+D:\Jobs\ALLWork\csharpBeginner\obj\Debug\csharpBeginner.csproj.SuggestedBindingRedirects.cache
+D:\Jobs\ALLWork\csharpBeginner\obj\Debug\csharpBeginner.csproj.CoreCompileInputs.cache
+D:\Jobs\ALLWork\csharpBeginner\obj\Debug\csharpBeginner.exe
+D:\Jobs\ALLWork\csharpBeginner\obj\Debug\csharpBeginner.pdb
